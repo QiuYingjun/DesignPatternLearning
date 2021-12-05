@@ -16,6 +16,22 @@ public class Segregation2 {
     }
 }
 
+interface Interface2_1 {
+    void operation1();
+}
+
+interface Interface2_23 {
+    void operation2();
+
+    void operation3();
+}
+
+interface Interface2_45 {
+    void operation4();
+
+    void operation5();
+}
+
 class BB implements Interface2_1, Interface2_23 {
     public void operation1() {
         System.out.println("BB operation1");
