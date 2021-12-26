@@ -19,3 +19,6 @@
 5. 聚合
 6. 组合
 
+## III 设计模式
+
+1. [单例模式](./src/com/pattern/singleton/)
