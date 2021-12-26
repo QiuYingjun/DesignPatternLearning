@@ -9,7 +9,6 @@ public class Computer {
     }
 
     public void setMouse(Mouse mouse) {
-
         this.mouse = mouse;
     }
 }
