@@ -7,8 +7,8 @@
 
 0. [不好的实现](./ng/)
 1. [Cloneable](./cloneable/)
-2. [浅拷贝](./shallowcopy/)
-3. [深拷贝](./deepcopy/)
+2. [浅拷贝](./shallowclone/)
+3. [深拷贝](./deepclone/)
 
 ```plantuml
 @startuml
