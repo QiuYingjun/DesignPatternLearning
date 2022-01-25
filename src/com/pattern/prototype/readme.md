@@ -13,9 +13,9 @@
 ```plantuml
 @startuml
 class Prototype
-Client-->Prototype
-Prototype<|--ConcretePrototype1
-Prototype<|--ConcretePrototype2
+Client --R> Prototype
+Prototype <|-- ConcretePrototype1
+Prototype <|-- ConcretePrototype2
 @enduml
 ```
 
