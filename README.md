@@ -25,3 +25,4 @@
 2. [工厂模式](./src/com/pattern/factory/)
 3. [原型模式](./src/com/pattern/prototype/)
 4. [建造者模式](./src/com/pattern/builder/)
+5. [适配器模式](./src/com/pattern/adapter/)
