@@ -28,3 +28,4 @@
 5. [适配器模式](./src/com/pattern/adapter/)
 6. [桥接模式](./src/com/pattern/bridge/)
 7. [装饰器模式](./src/com/pattern/decorator/)
+8. [组合模式](./src/com/pattern/composite/)
